@@ -1,3 +1,12 @@
 # Program 2: Basic Git Workflow
 
-![Terminal Output](p2-terminal.png)
+### Objective
+Practice staging, committing, and pushing code changes.
+
+### Commands Executed
+```bash
+git status
+git add .
+git commit -m "feat(p2): add basic workflow files"
+git push -u origin main
+```
