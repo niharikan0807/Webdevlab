@@ -1,3 +1,3 @@
-# Program 2: Terminal Execution
+# Program 2: Basic Git Workflow
 
-![Terminal Output](p2-terminal.png)
+Files staged, committed, and pushed successfully.

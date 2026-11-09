@@ -1,3 +1,3 @@
-# Program 3: Terminal Execution
+# Program 3: Branching and Merging
 
-![Terminal Output](p3-terminal.png)
+Feature branch created, changes committed, and merged back into main successfully.

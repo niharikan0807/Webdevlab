@@ -1,3 +1,3 @@
-# Program 4: Terminal Execution
+# Program 4: Tags and Releases
 
-![Terminal Output](p4-terminal.png)
+Tag v1.0 created and pushed to remote repository successfully.

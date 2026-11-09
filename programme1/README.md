@@ -1,3 +1,3 @@
-# Program 1: Terminal Execution
+# Program 1: Git Initialization
 
-![Terminal Output](p1-terminal.png)
+Repository initialized and connected to remote origin successfully.
